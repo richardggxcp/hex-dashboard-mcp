@@ -18,7 +18,7 @@ MCP server for building and maintaining Hex notebooks from Claude Code. Wraps th
 
 ## Setup
 
-Requires Python 3.11+ and a [Hex API token](https://learn.hex.tech/docs/develop-logic/hex-api/api-reference).
+Requires Python 3.11+ and a Hex API token (generate one from your workspace settings under API keys).
 
 ```bash
 python -m venv .venv
